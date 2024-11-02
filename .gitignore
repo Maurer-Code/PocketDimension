@@ -1,0 +1,22 @@
+svelte-pwa/test-results
+svelte-pwa/node_modules
+
+# Output
+svelte-pwa/.output
+svelte-pwa/.vercel
+svelte-pwa/.svelte-kit
+svelte-pwa/build
+
+# OS
+svelte-pwa/.DS_Store
+svelte-pwa/Thumbs.db
+
+# Env
+.env
+.env.*
+!.env.example
+!.env.test
+
+# Vite
+svelte-pwa/vite.config.js.timestamp-*
+svelte-pwa/vite.config.ts.timestamp-*
